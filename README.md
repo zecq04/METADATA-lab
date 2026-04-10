@@ -4,8 +4,7 @@
 
 1. `file`
 2. `exiftool`
-3. `hexeditor`
-4. `binwalk`
+3. `binwalk`
 
 ---
 
